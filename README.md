@@ -19,5 +19,13 @@ PS learn-rails6>
 
 full log: [rails-new.log](rails-new.log)  
 
+## rails s
+
+```powershell
+PS learn-rails6> rails s
+```
+
+browser: http://localhost:3000/  
 
 
+![browser](rails-s.png)  
